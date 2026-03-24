@@ -1,4 +1,4 @@
-## Sichan Song(timerrr) 👋
+## Sichan Song(timerrrr) 👋
 
 <!--
 **timerrrr/timerrrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
