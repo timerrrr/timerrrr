@@ -6,8 +6,8 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> Hongik Univ. Computer Science</li></li></li><li> 2025.09 ~ : 마포구x홍익대 코딩 교육 아카데미 보조 강사</li></li></li><li> 2026.03 ~ : UMC 홍익대 Spring Boot 챌린저 </div> 
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <h3 style="color: #282d33; margin-top: 1px; margin-bottom: 10px;">Languages</h3>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> 
+    <h3 style="color: #282d33; margin-top: 5px; margin-bottom: 10px;">Languages</h3>
   <div style="margin-bottom: 20px;">
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
