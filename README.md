@@ -3,7 +3,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👀 About Me </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> Hongik Univ. Computer Science</li></li></li><li> 2025.09 ~ : 마포구x홍익대 코딩 교육 아카데미 강사</li></li></li><li> 2026.03 ~ 2026.08 : 10th UMC 홍익대 서울 SpringBoot 챌린저 </li></li></li><li> 2026.08 : 단기공간 임대 플랫폼 팝잇 백엔드 파트 (10th UMC 데모데이 대상)</li></li></li><li></div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> Hongik Univ. Computer Science</li></li></li><li> 2025.09 ~ : 마포구x홍익대 코딩 교육 아카데미 강사</li></li></li><li> 2026.03 ~ 2026.08 : 10th UMC 홍익대 서울 SpringBoot 챌린저 </li></li></li><li> 2026.08 : 단기공간 임대 플랫폼 팝잇 백엔드 파트 (10th UMC 데모데이 대상)</li></li></li></div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> 
